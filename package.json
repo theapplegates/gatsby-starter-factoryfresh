@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
+    "@ibm/plex": "^6.0.0",
     "@theme-ui/color": "^0.6.0",
     "gatsby": "^4.10.0-next.2",
     "gatsby-plugin-google-analytics": "^4.7.0",
